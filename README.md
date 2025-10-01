@@ -1,4 +1,4 @@
-# Firefox OPSEC user.js - Privacy Configuration (CF_friendly)
+# Firefox OPSEC user.js - Privacy Profile
 
 A hardened Firefox configuration that balances maximum privacy with real-world website compatibility, specifically maintaining Cloudflare support.
 
