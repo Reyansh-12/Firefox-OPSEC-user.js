@@ -1,4 +1,4 @@
-# Firefox OPSEC user.js - Privacy Configuration
+# Firefox OPSEC user.js - Privacy Configuration (CF_friendly)
 
 A hardened Firefox configuration that balances maximum privacy with real-world website compatibility, specifically maintaining Cloudflare support.
 
@@ -6,13 +6,13 @@ A hardened Firefox configuration that balances maximum privacy with real-world w
 
 ### 1️⃣ **Locate your Firefox profile directory**
 
-** Linux/macOS**
+**Linux/macOS**
 ~/.mozilla/firefox/XXXXXXXX.default-release/
 
 **Windows**
 %APPDATA%\Mozilla\Firefox\Profiles\XXXXXXXX.default-release\
 
-2️⃣ I**Install the configuration**
+2️⃣ **Install the configuration**
 
 cp user.js /path/to/your/firefox/profile/
 
