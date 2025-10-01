@@ -2,7 +2,9 @@
 
 A hardened Firefox configuration that balances maximum privacy with real-world website compatibility, specifically maintaining Cloudflare support.
 
+
 ## 🚀 Installation
+
 
 ### 1️⃣ **Locate your Firefox profile directory**
 
@@ -12,17 +14,21 @@ A hardened Firefox configuration that balances maximum privacy with real-world w
 **Windows**
 %APPDATA%\Mozilla\Firefox\Profiles\XXXXXXXX.default-release\
 
+
 2️⃣ **Install the configuration**
 
 cp user.js /path/to/your/firefox/profile/
+
 
 3️⃣  **Restart Firefox**
 
 Settings will apply automatically upon restart.
 
+
 🔍 **Verification**
 
 Open about:config in Firefox and verify preferences match the configuration.
+
 
 ✨ **Configuration Features**
 
@@ -34,4 +40,5 @@ Open about:config in Firefox and verify preferences match the configuration.
 
     ⚡ Performance Optimized: Hardware acceleration, intelligent caching
 
-*All settings are thoroughly commented in the user.js file for complete transparency.*
+
+*All settings are thoroughly commented in the user.js file.*
