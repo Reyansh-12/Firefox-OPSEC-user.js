@@ -14,21 +14,25 @@ A hardened Firefox configuration that balances maximum privacy with real-world w
 **Windows**
 %APPDATA%\Mozilla\Firefox\Profiles\XXXXXXXX.default-release\
 
+-
 
 2️⃣ **Install the configuration**
 
 cp user.js /path/to/your/firefox/profile/
 
+-
 
 3️⃣  **Restart Firefox**
 
 Settings will apply automatically upon restart.
 
+-
 
 🔍 **Verification**
 
 Open about:config in Firefox and verify preferences match the configuration.
 
+-
 
 ✨ **Configuration Features**
 
